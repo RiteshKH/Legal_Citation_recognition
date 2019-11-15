@@ -1,4 +1,4 @@
-## [Legal Citation_recognition](https://github.com/RiteshKH/Legal_Citation_recognition)
+## [Legal_Citation_recognition](https://github.com/RiteshKH/Legal_Citation_recognition)
 Python application to read a legal case document in text format and highlight the citations among the text for easier navigation and impact analysis.
 
 Legal citation is the practice of crediting and referring to authoritative documents and sources. The most common sources of authority cited are court decisions (cases), statutes, regulations, treaties, and scholarly writing.
