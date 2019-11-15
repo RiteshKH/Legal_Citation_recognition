@@ -12,12 +12,6 @@ import random
 import json
 import os
 
-
-#print(json.dumps(obj, indent=4, sort_keys=True))
-
-#for i in range(len(obj['citation'])):
-#    print("Citation detail::")
-#    print(obj['citation'][i])
     
 # In[Converting json into Citation Output text file]:
 def getjsontotext():
@@ -36,12 +30,8 @@ def getjsontotext():
     	CO-REF: NA
     	NAME: "Floyd v. Title Exchange & Pawn of Anniston, Inc., 620 So. 2d 576 (Ala. 1993)" ##14747#14827#
     """
-#    output_folder = 'C:/Users/726094/Desktop/analysis/output/'
-#    raw_text_files_folder = 'C:/Users/726094/Desktop/analysis/json_to_text_pdf/'
     
     #Reading the json file
-#    json_data = "CT-4V8G-MV80-TXFN-T3B0-00000-00.json"
-#    json_data = "C:/Users/726094/Desktop/analysis/json_building/result_03Oct_559_100Files_data.json"
     json_data = 'outputs/result_citation_data_coref_out.json'
     
     # read file
@@ -53,11 +43,7 @@ def getjsontotext():
     for iv in obj['citation']:
         if(iv["filename"] not in uniqueNames):
              uniqueNames.append(iv["filename"]);
-    
-#    for ii in uniqueNames:
-#        raw_text_file = ii
-#        getjsontotext(obj, output_folder)
-#        getjsontodocx(obj, raw_text_file, output_folder, raw_text_files_folder)
+  
         
     text_data = []
     for i in range(len(obj['citation'])):
@@ -89,12 +75,7 @@ def getjsontotext():
 
 def getjsontodocx():
     
-#    output_folder = 'C:/Users/726094/Desktop/analysis/output/'
-#    raw_text_files_folder = 'C:/Users/726094/Desktop/analysis/json_to_text_pdf/'
-    
     #Reading the json file
-#    json_data = "CT-4V8G-MV80-TXFN-T3B0-00000-00.json"
-#    json_data = "C:/Users/726094/Desktop/analysis/json_building/result_03Oct_559_100Files_data.json"
     json_data = 'outputs/result_citation_data_coref_out.json'
     input_path = 'input/'
     # read file
@@ -108,10 +89,6 @@ def getjsontodocx():
              uniqueNames.append(iv["filename"]);
     
     raw_text_file = uniqueNames[0]
-#    for ii in uniqueNames:
-#        raw_text_file = ii
-#        getjsontotext(obj, output_folder)
-#        getjsontodocx(obj, raw_text_file, output_folder, raw_text_files_folder)
         
     #Reading the raw text file
     fname = raw_text_file.replace('xml.xml','txt')
@@ -138,10 +115,7 @@ def getjsontodocx():
                     'co_ref': obj['citation'][i]['anaphoric']['co-ref'],
                     'cite_id': obj['citation'][i]['citation_id']  
                     }
-#            name = obj['citation'][i]['name']
-#            anaphoric = obj['citation'][i]['anaphoric']['status']
-#            co_ref = obj['citation'][i]['anaphoric']['co-ref']
-#            print(name)
+
             if(js_object['anaphoric_stat'] == 'T' and js_object['co_ref'] != 'nan'):
                 cite_id = js_object['co_ref']
                 highlight_color.append(highlight_color[citations.index(js_object['cite_id'] == cite_id)])
@@ -160,23 +134,11 @@ def getjsontodocx():
 
     document = Document()
     
-#    for i in range(len(citations)):
-#    print(citations[1].items())
+
         
     # Create a new paragraph with "helloworld" highlighted
     p2 = document.add_paragraph()
     substrings = []
-#    st = []
-#    ln = []
-#    for i in range(len(obj['citation'])):
-#        if(obj['citation'][i]['filename'] == raw_text_file):
-#            print(obj['citation'][i]['citation_textstartid'], obj['citation'][i]['citation_textlength'])
-#            st.append(obj['citation'][i]['citation_textstartid'])
-##            print(i)
-#    ascidx = [i[0] for i in sorted(enumerate(st), key=lambda x:x[1])]
-#    for i in range(len(obj['citation'])):
-#        if(obj['citation'][i]['filename'] == raw_text_file):
-#            ln.append(obj['citation'][i]['citation_textlength'])
             
     startid = 0
     length = 0
@@ -204,36 +166,6 @@ def getjsontodocx():
     document.save('outputs/'+fname+'-word.docx')
     print('Word Document created: '+fname+'-word.docx')
 
-
-# In[Main]:
-    
-#if __name__ == "__main__":
-
-#    CURRENT_FOLDER_PATH = os.path.dirname(os.getcwd())    
-#    output_folder = 'C:/Users/726094/Desktop/analysis/output/'
-#    raw_text_files_folder = 'C:/Users/726094/Desktop/analysis/json_to_text_pdf/'
-#    
-#    #Reading the json file
-##    json_data = "CT-4V8G-MV80-TXFN-T3B0-00000-00.json"
-##    json_data = "C:/Users/726094/Desktop/analysis/json_building/result_03Oct_559_100Files_data.json"
-#    json_data = 'result_citation_data_coref_out.json'
-#    
-#    # read file
-#    with open(json_data, 'r') as data:
-#        jdata=data.read()
-#    # parse file
-#    obj = json.loads(jdata)
-#    uniqueNames = [];
-#    for iv in obj['citation']:
-#        if(iv["filename"] not in uniqueNames):
-#             uniqueNames.append(iv["filename"]);
-#    
-#    for ii in uniqueNames:
-#        raw_text_file = ii
-#        getjsontotext(obj, output_folder)
-#        getjsontodocx(obj, raw_text_file, output_folder, raw_text_files_folder)
-    
-#    print("SUCCESS")
 
 
 
