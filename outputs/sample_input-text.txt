@@ -1,0 +1,240 @@
+<CITATION-sample_input.xml.xml-0> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Taylor v. Mucci, 288 Conn. 379, 383 n.4, 952 A.2d 776 (2008) ##21738#21798# 
+<CITATION-sample_input.xml.xml-1> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Kelly v. New Haven, 275 Conn. 580, 593, 881 A.2d 978 (2005) ##22961#23020# 
+<CITATION-sample_input.xml.xml-2> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: T
+	 CO-REF: nan
+	 NAME: Id., 674 ##26815#26823# 
+<CITATION-sample_input.xml.xml-3> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: T
+	 CO-REF: nan
+	 NAME: Id., 675 ##27082#27090# 
+<CITATION-sample_input.xml.xml-4> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Lisee v. Commission on Human Rights &amp; Opportunities, 258 Conn. 529, 539, 782 A.2d 670 (2001) ##27663#27759# 
+<CITATION-sample_input.xml.xml-5> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: State v. McCahill, 261 Conn. 492, 501, 811 A.2d 667 (2002) ##32429#32487# 
+<CITATION-sample_input.xml.xml-6> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: T
+	 CO-REF: nan
+	 NAME: Id., 821 ##36397#36405# 
+<CITATION-sample_input.xml.xml-7> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Salmon v. Dept. of Public Health &amp; Addiction Services, 259 Conn. 288, 319, 788 A.2d 1199 (2002) ##43014#43113# 
+<CITATION-sample_input.xml.xml-8> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: In re Allison G., 276 Conn. 146, 161, 883 A.2d 1226 (2005) ##48540#48598# 
+<CITATION-sample_input.xml.xml-9> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: In re David W., 254 Conn. 676, 682, 691, 759 A.2d 89 (2000) ##48600#48659# 
+<CITATION-sample_input.xml.xml-10> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: In re Vanna A., 83 Conn. App. 17, 19, 847 A.2d 1073 (2004) ##48661#48719# 
+<CITATION-sample_input.xml.xml-11> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: State v. Barnes, 33 Conn. App. 603, 610, 637 A.2d 398 (1994) ##48730#48790# 
+<CITATION-sample_input.xml.xml-12> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: State v. Geisler, 222 Conn. 672, 684-85, 610 A.2d 1225 (1992) ##50498#50559# 
+<CITATION-sample_input.xml.xml-13> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: State v. Golding, 213 Conn. 233, 567 A.2d 823 (1989) ##50966#51018# 
+<CITATION-sample_input.xml.xml-14> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Aselton v. East Hartford, 277 Conn. 120, 153, 890 A.2d 1250 (2006) ##51566#51632# 
+<CITATION-sample_input.xml.xml-15> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Groton Police Dept. v. Freedom of Information Commission, 104 Conn. App. 150, 162-63, 931 A.2d 989 (2007) ##61284#61389# 
+<CITATION-sample_input.xml.xml-16> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: State v. Campbell, 224 Conn. 168, 180, 617 A.2d 889 (1992) ##67690#67748# 
+<CITATION-sample_input.xml.xml-17> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: State v. Ramos, 261 Conn. 156, 171, 801 A.2d 788 (2002) ##74342#74397# 
+<CITATION-sample_input.xml.xml-18> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Taylor v. Mucci, 288 Conn. 379, 383 n.4, 952 A.2d 776 (2008) ##74461#74521# 
+<CITATION-sample_input.xml.xml-19> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Doe v. Dept. of Public Safety, 271 F.3d 38, 61 (2d Cir. 2001) ##75040#75101# 
+<CITATION-sample_input.xml.xml-20> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Gonzalez v. Surgeon, 284 Conn. 573, 583-84, 937 A.2d 24 (2007) ##75969#76031# 
+<CITATION-sample_input.xml.xml-21> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Thalheim v. Greenwich, 256 Conn. 628, 641, 775 A.2d 947 ##76455#76510# 
+<CITATION-sample_input.xml.xml-22> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: In re Stephen M., 109 Conn. App. 644, 651, 953 A.2d 668 and n.11, 109 Conn. App. 644, 953 A.2d 668 (2008) ##80615#80720# 
+<CITATION-sample_input.xml.xml-23> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Piscottano v. Murphy, 511 F.3d 247, 280 (2d Cir. 2007) ##82311#82365# 
+<CITATION-sample_input.xml.xml-24> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: State v. DeLoreto, 265 Conn. 145, 166, 827 A.2d 671 (2003) ##82792#82850# 
+<CITATION-sample_input.xml.xml-25> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: T
+	 CO-REF: nan
+	 NAME: Id., 41 ##83555#83562# 
+<CITATION-sample_input.xml.xml-26> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Taylor v. Mucci, 288 Conn. 379, 383 n.4, 952 A.2d 776 ##84160#84213# 
+<CITATION-sample_input.xml.xml-27> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: United States v. Lovett, 328 U.S. 303, 315, 66 S. Ct. 1073, 90 L. Ed. 1252, 106 Ct. Cl. 856 (1946) ##85360#85458# 
+<CITATION-sample_input.xml.xml-28> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Morris v. Congdon, 277 Conn. 565, 578, 893 A.2d 413 (2006) ##85461#85519# 
+<CITATION-sample_input.xml.xml-29> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: United States v. Brown, 381 U.S. 437, 442, 85 S. Ct. 1707, 14 L. Ed. 2d 484 (1965) ##85697#85779# 
+<CITATION-sample_input.xml.xml-30> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Nixon v. Administrator of [General Services], 433 U.S. 425, 475, 97 S. Ct. 2777, 2806, 53 L. Ed. 2d 867 (1977) ##87745#87855# 
+<CITATION-sample_input.xml.xml-31> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Dehainaut v. Pena, 32 F.3d 1066, 1071-72 (7th Cir. 1994) ##89357#89413# 
+<CITATION-sample_input.xml.xml-32> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Zwick v. Freeman, 373 F.2d 110, 119-20 (2d Cir.) ##89487#89535# 
+<CITATION-sample_input.xml.xml-33> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: United States v. Brown, supra, 381 U.S. 458-61 ##89607#89653# 
+<CITATION-sample_input.xml.xml-34> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: United States v. Lovett, supra, 328 U.S. 316-18 ##89784#89831# 
+<CITATION-sample_input.xml.xml-35> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Cummings v. Missouri, 71 U.S. (4 Wall.) 277, 332, 18 L. Ed. 356 (1867) ##90142#90212# 
+<CITATION-sample_input.xml.xml-36> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: De Veau v. Braisted, 363 U.S. 144, 160, 80 S. Ct. 1146, 4 L. Ed. 2d 1109 (1960) ##90966#91045# 
+<CITATION-sample_input.xml.xml-37> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Hawker v. New York, 170 U.S. 189, 18 S. Ct. 573, 42 L. Ed. 1002 (1898) ##91783#91853# 
+<CITATION-sample_input.xml.xml-38> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: Smith v. Doe, 538 U.S. 84, 103, 123 S. Ct. 1140, 155 L. Ed. 2d 164 (2003) ##92932#93005# 
+<CITATION-sample_input.xml.xml-39> := 
+	 TYPE: citation 
+	 SUBTYPE: JUDICIALCOURTDECISION
+	 ANAPHORIC: F
+	 CO-REF: nan
+	 NAME: State v. Arthur H., 288 Conn. 582, 590, 953 A.2d 630 (2008) ##93129#93188# 
