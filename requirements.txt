@@ -21,7 +21,7 @@ spacy==2.2.2
 srsly==0.2.0
 thinc==7.3.1
 tqdm==4.38.0
-urllib3==1.25.7
+urllib3==1.26.18
 wasabi==0.4.0
 wincertstore==0.2
 zipp==0.6.0
